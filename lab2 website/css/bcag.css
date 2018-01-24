@@ -1,0 +1,545 @@
+.MyNav{
+    height: 120px !important;
+    background-color: #fff !important;
+     border-bottom:1px solid #fff!important;
+}
+
+
+.menubar-hover:hover{
+    background-color: #FFFFFF;
+    display: block;
+}
+
+.bottombar{
+    border-bottom:0px solid #ccc!important;
+}
+.bottombar:hover{
+    border-bottom:4px solid #930403!important;
+    text-decoration: none!important;
+}
+.bottombar:active{
+    border-bottom:4px solid #930403!important;
+}
+.menu-item-width:before{
+    margin-right: 0px;
+    width:auto;
+    margin-top: 0px;
+    text-align: center;    
+}
+
+.menu-text{
+    margin-right: 10px;
+    text-align: center;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight:550;
+    line-height: normal;
+    color: #BE202C;
+}  
+.menu-text4{
+   
+    text-align: center;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: normal;
+    color: #000 !important;
+    padding: 9px;
+} 
+.menu-text4:hover{
+   
+    text-align: center;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: normal;
+    color: #BE202C !important;
+    padding: 9px;
+} 
+
+nav ul li ul li{
+  
+    background-color: #fff;
+    width:auto;
+    margin: 0px;
+    margin-left: 0px;
+    text-decoration: none !important;
+    font-weight: 500;
+    text-align: center;
+    
+}
+
+.columns{
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    
+    -webkit-column-gap: 4px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 4px; /* Firefox */
+    column-gap: 4px;
+    
+    -webkit-column-width: 200px; /* Chrome, Safari, Opera */
+    -moz-column-width: 200px; /* Firefox */  
+    column-width: 200px;
+
+}
+.columns2{
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+
+    -webkit-column-width: 200px; /* Chrome, Safari, Opera */
+    -moz-column-width: 200px; /* Firefox */  
+    column-width: 200px;
+
+}
+
+
+
+
+ul{list-style: none;}
+il{list-style: none;}
+
+
+.dropDown-menu:hover{
+    display: block;
+    text-decoration: line-through;
+    
+
+}
+
+.dropDown-menu ul li a{
+    display: block;
+    color: bisque;
+    text-decoration: line-through;
+}
+.dropDown:hover{
+    display: block;
+     text-decoration: none;
+    
+    
+}
+.dropDown{
+    text-decoration: line-through;
+}
+
+.logoImg{
+    margin-top: 8%;
+}
+.MyTopBar{
+    background-color: red;
+    height: 300px;
+}
+.MyText{
+    font-family:"Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+    font-size: 1.155em;
+    color: #000;
+    text-align: center;
+    line-height: 23px;
+    padding: 40px;
+}
+.MyText2{
+    
+}
+.MyTextImg{
+    width: 550px;
+    margin-top: 50px;
+   
+}
+.infoContainer{
+    background-color: #fff;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+}
+
+.brand2 {
+    display: inherit;
+    margin: 0;
+    color: #9D0000;
+    padding: 30px 0 10px;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 2.3em;
+    font-weight: 100;
+    font-style: italic;
+    line-height: normal;
+}
+.brand3{
+    display: inherit;
+    margin: 0;
+    color: #fff;
+    padding: 10px 0 10px;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 2.3em;
+    font-weight: 100;
+    font-style: italic;
+    line-height: normal;
+}
+.Connect{
+    background-color:#EBEBEB;
+    margin-top: 30px;
+}
+.Connect2{
+    background-color:#fff;
+    margin-top: 20px;
+}
+.Connect3{
+    background-color:#9D0000;
+    margin-top: 20px;
+}
+
+.ConnectText{
+    display: inherit;
+    padding: 10px 10px 10px;
+    margin-left: 0px;
+    font-family: Verdana, Helvetica, sans-serif;
+    line-height: 1;
+  
+}
+.ConnectItems{
+    margin-left: 0px;
+    padding: 30px;
+}
+
+.myTabsContainer{
+    background-color: #ddd !important;
+}
+
+.TabsColor{
+    margin: 0px;
+    width: 160px;
+    background-color: floralwhite !important;
+    border: 0px solid #000;
+    
+}
+.myTabsContent{
+    padding: 20px;
+   
+}
+.TabsText{
+    
+}
+.Top-Bottom{
+     background-color:#EBEBEB;
+    
+}
+
+.BuildingText{
+    padding: 10px;
+    padding-right: 60px;
+
+}
+.myFooter{
+    background-color: #232323;
+    margin-top: 20px;
+    padding-top: 80px;
+    
+}
+.QuickLinks{
+    color:gray;
+    line-height: 250%;
+    font-weight:160px;
+    font-size:16px;
+    margin-left: -35px;
+}
+ul li{
+    list-style: none;
+}
+.QuickLinks:hover{
+    color: #9D0000;
+    text-decoration: none;
+    
+}
+.footerContainer{
+    background-color: black;
+}
+.footer1{
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+.image-size{
+    width: 190px;
+    height: 110px;
+}
+.image-size2{
+    height: 420px;
+    width: 800px;
+    margin-top: 20px;
+    border: 4px solid black;
+    border-radius: 4px;
+   
+    
+}
+.Staff{
+    box-shadow: 2px 2px 2px #9D0000;
+}
+
+.Staff a:hover{
+    text-decoration: none;
+    color: #9D0000;
+}
+.address-bar {
+        display: inherit;
+        margin: 0;
+        padding: 10px;
+        text-align: center;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 3px;
+        color: #FDFDFD;
+    }
+
+@media screen and (min-width:768px) {
+ .Connect1{
+    margin-left: 180px !important;
+}
+.MyTextImg{
+       margin-left: 120px;  
+ }
+    .tablink2{
+        margin-left: 120px;
+        margin-right: 0px;
+    }
+     .tablink3{
+        margin-left: 0px;
+    }
+ 
+.MyTextImg2{
+    width: 800px;
+    height: 340px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: 120px;  
+    margin-top: 50px;
+}
+.MyTextImg3{
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left:420px;
+} 
+    .MyTextImg4{
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin-top: 50px;
+        margin-left:50px;
+    }
+.AboutVideo{
+    margin-left:500px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    width:760px;
+    height:571px; 
+    }
+    .MergeLeft{
+        margin-left: -300px !important;
+        width: 1100px !important;
+    }
+    .COLUMNS{
+        margin-left: 30px !important;
+        width: 300px;
+    }
+    .AgLogo{
+         margin-left:530px;
+    }
+    .ContactMap{
+    width:800px;
+    height:600px;
+    margin-left: 220px;
+    border-radius: 8px;
+    border: 4px solid #000;
+    
+    padding: 40px;
+}
+    .ContactForm{
+    width: 600px !important;
+    margin-top: 60px;
+    margin-left: 300px;
+    align-self: center;
+    }
+    .ContactText{
+        margin-left: 120px;
+    }
+    .Item{
+        margin-left: 0px;
+    }
+    .Item a:hover{
+    opacity: 0.5;
+
+}
+    .MenuItem{
+        margin-bottom: -10px !important;
+        width: 340px;
+        background-color: #9D0000;
+        border: 1px solid black;
+    }
+    .Staff{
+        margin-left:80px;
+    }
+    .menu-item-width{
+    margin-right: 0px;
+    width:auto;
+    margin-top: 22px;
+    text-align: center;    
+}   
+    .menu-item-width1{
+        margin-right: 0px;
+        width:110px;
+        margin-top: 22px;
+        text-align: center;
+        height: 80px !important;
+    }
+    nav ul li ul{
+    position: relative; 
+    background-color: #ccc;
+    width:160px;
+    height: auto;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 0px;
+    line-height: 30px;
+    text-decoration: none !important;
+    font-weight: 500;
+    
+}
+    .ParagraphS{
+        padding-left:90px;
+        padding-right:90px;
+        color:gray;
+        line-height:1.8;
+        text-align:left;
+    }
+    .HomeImg{
+        width:100% !important;
+        height:80% !important;
+        border-radius: 8px;
+        border: 1px solid #000;
+    }
+    .HomeImgContainer{
+        height: 550px !important;  
+        border-radius: 8px;
+        
+        padding: 40px;
+    
+    }
+    .DonateBtn{
+     
+        margin-left: 580px;
+        margin-top: 40px;
+        background-blend-mode:difference;
+    }
+    .myTabs{
+    background-color:#9D0000 !important; 
+    float: left;
+    padding: 17px;
+     margin: 20px;
+    margin-left: 60px;
+    border-radius: 8px;
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+.myTabs2{
+    background-color:#9D0000 !important; 
+    float: right;
+    margin: 2px;
+    margin-right: 80px;
+    border-radius: 8px;
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+.myTabsItem{
+    background-color:#fff; 
+    margin-top: 20px;
+    border-radius: 10px;
+}
+}
+
+@media screen and (max-width: 600px) {
+nav ul li ul{
+    position: relative; 
+    background-color: #fff;
+    width:auto;
+    height: auto;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 30px;
+    line-height: 30px;
+    text-decoration: none !important;
+    font-weight: 500;
+    
+}
+ 
+    .HomeImg{
+        width: auto;
+        height: auto;
+    }
+    .menu1-Items{
+        background-color: gray;
+        text-align: center;    
+}
+    .menu-text{
+    margin-right: 10px;
+    text-align: center;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight:550;
+    line-height: normal;
+    color: #000;
+}  
+.menu-text4{
+   
+    text-align: center;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: normal;
+    color: #000;
+} 
+    .ParagraphS{
+        padding-left:0px;
+        padding-right:0px;
+        color:gray;
+        line-height:1.8;
+        text-align:left;
+    }
+    .myTabs{
+    background-color:#EBEBEB; 
+    float: left;
+    padding: 17px;
+     margin: 20px;
+    margin-left: -60px;
+    border-radius: 8px;
+    border: 2px solid #000;
+    border-radius: 4px;
+        width: 500px;
+}
+.myTabs2{
+    width: 500px;
+    background-color:#EBEBEB; 
+    float: right;
+    margin: 0px;
+    margin-right: 0px;
+    border-radius: 8px;
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+.myTabsItem{
+    background-color:#fff; 
+    margin-top: 20px;
+    border-radius: 10px;
+}
+}
+
